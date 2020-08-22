@@ -20,12 +20,12 @@ youtube link will be here.
 - 2x 200k resistors
 - 2x 470 resistors
 - 6x 100nF capacitors
-- 2x 33pF capacitors
-
+- 2x 33pF capacitors  
+  
 - 2x 60leds/m WS2812b led strips
 - 12V/5A power supply
-- 12V/5A -> 5V/5A converter
-
+- 12V/5A -> 5V/5A converter  
+  
 - SONOFF BASIC R3 (to turn on the extension cord via wifi)
 - Extension cord
 
