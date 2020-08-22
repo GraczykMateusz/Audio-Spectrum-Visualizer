@@ -38,13 +38,10 @@ youtube link will be here.
 
 ![](Pictures/msgeq7_arduino_first_try.png)
 
-![](Pictures/led_connection_v2.png)
-
-![](Pictures/led_connection_2.png)
+![](Pictures/led_connection.png)
 
 ![](Pictures/msgeq7_arduino_connection.png)
 
-![](Pictures/msgeq7_arduino_connection_2.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
