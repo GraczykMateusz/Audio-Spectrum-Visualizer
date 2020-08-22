@@ -10,7 +10,7 @@ I would like to show you my 'Audio Spectrum Visualizer' which I created for my f
 --------------------------------------------------------------------------------------------------------------------
 *FINISH EFFECT (with sound)*
 
-youtube link will be here
+youtube link will be here.
 
 --------------------------------------------------------------------------------------------------------------------
 *USED ELEMENTS*
@@ -32,10 +32,15 @@ youtube link will be here
 --------------------------------------------------------------------------------------------------------------------
 *INSTALLATION*
 ![](Pictures/msgeq7_installation_graph.png)
+.
 ![](Pictures/msgeq7_arduino_first_try.png)
+.
 ![](Pictures/led_connection.png)
+.
 ![](Pictures/led_connection_2.png)
+.
 ![](Pictures/msgeq7_arduino_connection.png)
+.
 ![](Pictures/msgeq7_arduino_connection_2.png)
 
 --------------------------------------------------------------------------------------------------------------------
