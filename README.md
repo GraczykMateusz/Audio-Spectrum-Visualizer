@@ -3,12 +3,12 @@ Hello everyone!
 I would like to show you my 'Audio Spectrum Visualizer' which I created for my father. It's a seven-band version, one per speaker. This project was made to improve my electronics skill. Besides, we like good sound very much. All informations and photos can be seen below (or in the datasheet):
 
 --------------------------------------------------------------------------------------------------------------------
-*FINISH EFFECT (without sound)*
+*FINISH EFFECT (without sound and night)*
 
 ![](Gif/finish_effect.gif)
 
 --------------------------------------------------------------------------------------------------------------------
-*FINISH EFFECT (with sound)*
+*FINISH EFFECT (with sound and night)*
 
 youtube link will be here.
 
@@ -32,17 +32,18 @@ youtube link will be here.
 - Extension cord
 
 --------------------------------------------------------------------------------------------------------------------
-*INSTALLATION*
+*INSTALLATION*  
+
 ![](Pictures/msgeq7_installation_graph.png)
-.
+
 ![](Pictures/msgeq7_arduino_first_try.png)
-.
-![](Pictures/led_connection.png)
-.
+
+![](Pictures/led_connection_v2.png)
+
 ![](Pictures/led_connection_2.png)
-.
+
 ![](Pictures/msgeq7_arduino_connection.png)
-.
+
 ![](Pictures/msgeq7_arduino_connection_2.png)
 
 --------------------------------------------------------------------------------------------------------------------
