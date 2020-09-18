@@ -3,12 +3,12 @@ Hello everyone!
 I would like to show you my 'Audio Spectrum Visualizer' which I created for my father. It's a seven-band version, one per speaker. This project was made to improve my electronics skill. Besides, we like good sound very much. All informations and photos can be seen below (or in the datasheet):
 
 --------------------------------------------------------------------------------------------------------------------
-*FINISH EFFECT (without sound and night)*
+*FINISH EFFECT (without sound)*
 
 ![](Gif/finish_effect.gif)
 
 --------------------------------------------------------------------------------------------------------------------
-*FINISH EFFECT (with sound and night)*
+*FINISH EFFECT (with sound)*
 
 youtube link will be here.
 
